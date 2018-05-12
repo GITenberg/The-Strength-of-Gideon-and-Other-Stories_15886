@@ -1,0 +1,45 @@
+_repo: The-Strength-of-Gideon-and-Other-Stories_15886
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kemble, E. W. (Edward Windsor)
+    aliases:
+    - Kemble, E. W. (Edward Winsor)
+    - Kemble, Edward Windsor
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '37155'
+    url: http://www.gutenberg.org/2009/agents/37155
+    wikipedia: http://en.wikipedia.org/wiki/E._W._Kemble
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: ''
+gutenberg_issued: '2005-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+tableOfContents: The strength of Gideon -- Mammy Peggy's pride -- Viney's free papers
+  -- The fruitful sleeping of the Rev. Elisha Edwards -- The ingrate -- The case of
+  'Ca'line -- The finish of Patsy Barners -- One man's fortunes -- Jim's probation
+  -- Uncle Simon's Sundays out -- Mr. Cornelius Johnson, office-seeker -- An old-time
+  Christmas -- A mess of pottage -- The trustfulness of Polly -- The tragedy at Three
+  Forks -- The finding of Zach -- Johnsonham, junior -- The faith cure man -- A council
+  of state -- Silas Jackson.
+title: The Strength of Gideon and Other Stories
+url: http://www.gutenberg.org/ebooks/15886
